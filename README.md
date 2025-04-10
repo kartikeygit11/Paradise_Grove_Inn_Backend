@@ -4,7 +4,7 @@ Welcome to the backend repository of **Paradise Grove Inn**, a comprehensive hot
 
 ## 🚀 Live Application
 
-Experience the live application here: [Paradise Grove Inn](https://elegant-cupcake-099c48.netlify.app/) *(Replace '#' with your actual deployment link)*
+Experience the live application here: [Paradise Grove Inn](https://elegant-cupcake-099c48.netlify.app/) 
 
 ## 🛠️ Tech Stack
 
