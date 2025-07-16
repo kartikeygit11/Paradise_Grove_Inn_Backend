@@ -2,6 +2,10 @@
 
 Welcome to the backend repository of **Paradise Grove Inn**, a comprehensive hotel management system designed to streamline hotel operations and enhance guest experiences.
 
+## 🖼️ Project Screenshot
+
+![Project Screenshot](project3.png)
+
 ## 🚀 Live Application
 
 Experience the live application here: [Paradise Grove Inn](https://elegant-cupcake-099c48.netlify.app/) 
@@ -39,4 +43,3 @@ Experience the live application here: [Paradise Grove Inn](https://elegant-cupca
 - Java 17 or higher
 - Maven
 - PostgreSql database
-
