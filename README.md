@@ -9,7 +9,7 @@ Experience the live application here: [Paradise Grove Inn](https://elegant-cupca
 ## 🛠️ Tech Stack
 
 - **Backend**: Java, Spring Boot, Maven
-- **Database**: MySQL
+- **Database**: PostgreSQl
 - **Security**: Spring Security for authentication and authorization
 
 ## 📂 Project Structure
@@ -38,5 +38,5 @@ Experience the live application here: [Paradise Grove Inn](https://elegant-cupca
 
 - Java 17 or higher
 - Maven
-- MySQL database
+- PostgreSql database
 
